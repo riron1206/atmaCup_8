@@ -1,0 +1,2 @@
+C:\Users\81908\jupyter_notebook\tf_2_work\Probspace_geme_compe\poetry_best_notebook_cp
+pycaret-2-classification_code_eng2_csv.ipynb
